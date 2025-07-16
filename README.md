@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/alexeydubinin-hh-jira-mcp-server-badge.png)](https://mseep.ai/app/alexeydubinin-hh-jira-mcp-server)
+
 # hh-jira-mcp-server MCP server
 
 A MCP server project
